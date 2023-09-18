@@ -19,6 +19,12 @@ while True:
     if k == ord('q'):
         break
 
-cap.release()
-cv2.destroyAllWindows()
+from cvzone.HandTrackingModule import HandDetector
+
+detector = HandDetector(detectionCon=0.8, maxHands=2)
+
+while True:
+    frame = cap.read()
+    hands, frame = detector.findHands(frame, flipType=False)
+    cv2.imshow("Reaction Game", frame)
 
