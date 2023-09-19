@@ -118,10 +118,10 @@ while True:
 
     if hit_target:
         target_count += 1
-        if target_count == 5:
-            with open('output.txt', 'w') as file:        
-                for time in time_array: 
-                    file.write(str(time) + '\n')
+        if target_count == 6:
+            with open('output.txt', 'w') as file:  
+                for time in range( len(time_array) - 1 ):      
+                    file.write(str(time_array[time+1]-time_array[time]) + '\n')
             break
           
         # print("count =", target_count)
