@@ -119,9 +119,10 @@ while True:
     if hit_target:
         target_count += 1
         if target_count == 5:
-            with open('output.txt', 'w') as file: 
+            with open('output.txt', 'w') as file:        
                 for time in time_array: 
                     file.write(str(time) + '\n')
+            break
           
         # print("count =", target_count)
         target = create_random_target(target.coordinates)
