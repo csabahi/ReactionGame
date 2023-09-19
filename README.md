@@ -25,5 +25,5 @@ You can install OpenCV using pip:
 pip install -r requirements.txt
 ```
 ## Made With 
-[![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv)](https://opencv.org/)
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+* ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
