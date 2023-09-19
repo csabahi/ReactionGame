@@ -19,7 +19,7 @@ Before you start playing the game, make sure you have the following prerequisite
 - A webcam or camera connected to your computer
 - NOTE: This version of the game ONLY works on MAC
 
-You can install OpenCV and NumPy using pip:
+You can install OpenCV using pip:
 
 ```bash
 pip install opencv-python 
