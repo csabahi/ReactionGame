@@ -22,7 +22,7 @@ Before you start playing the game, make sure you have the following prerequisite
 You can install OpenCV using pip:
 
 ```bash
-pip install opencv-python 
+pip install -r requirements.txt
 ```
 ## Made With 
 [![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv)](https://opencv.org/)
