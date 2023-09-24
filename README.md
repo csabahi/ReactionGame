@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome to the OpenCV Hand Reaction Game! This simple Python game uses OpenCV to detect your hand and challenges you to click on a moving circle as quickly as possible. It's a fun way to test your reaction time and hand-eye coordination.
+Welcome to the OpenCV Hand Reaction Game! This simple Python game uses OpenCV and CVZone to detect your hand and challenges you to click on a moving circle as quickly as possible. It's a fun way to test your reaction time and hand-eye coordination.
 
 This project was utilized for conducting an experiment aimed at measuring reaction times. The experiment encompassed a total of 100 iterations, during which data was collected. Subsequently, this data was employed in a statistical analysis to assess its distribution alonsigde its variables, to determine whether it conforms to a normal distribution. 
 
