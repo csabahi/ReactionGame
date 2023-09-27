@@ -20,7 +20,7 @@ Before you start playing the game, make sure you have the following prerequisite
 - A webcam or camera connected to your computer
 - NOTE: This version of the game ONLY works on MAC
 
-You can install OpenCV using pip:
+You can install OpenCV and the remaining requirements by adding the requirements.txt file to your project and using using pip:
 
 ```bash
 pip install -r requirements.txt
