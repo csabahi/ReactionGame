@@ -28,4 +28,4 @@ pip install -r requirements.txt
 ## Made With 
 * ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* CVZone
+* ![cvzone](https://github.com/csabahi/ReactionGame/assets/122414756/4ae38829-848e-4343-872a-8d67e388c4b4)
