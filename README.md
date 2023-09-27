@@ -2,6 +2,9 @@
 
 ###Put photo here
 
+<img width="1371" alt="Screen Shot 2023-09-27 at 5 49 34 PM" src="https://github.com/csabahi/ReactionGame/assets/122414756/5a48caad-e061-4af5-a981-8e03d215f21b">
+
+
 #### Development Team: [Camron Sabahi-Pourkashani](https://github.com/csabahi),  [Karthigan Uthayan](https://github.com/KarthiU)
 
 ## Introduction
